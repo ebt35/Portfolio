@@ -116,3 +116,11 @@ Group project building a streaming data platform.
 - DevOps & Automation
 - Analytics & Dashboards
 - Data Visualization
+  
+---
+
+## Contact
+
+- 📧 [E-mail](eyoub.beraki@hotmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eyoub-beraki-88355935a/)
+- 🐙 [GitHub](https://github.com/ebt35)
