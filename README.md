@@ -7,7 +7,7 @@ This repository showcases projects I have built or contributed to as part of my 
 # Personal Projects
 
 ### Premier League Data Engineering Pipeline
-[PL_DASHBOARD](https://github.com/AlejandroHiroshima/PL_DASHBOARD)
+[PL_DASHBOARD](https://github.com/ebt35/PL_dashboard)
 
 Individual thesis project implementing an end-to-end data engineering pipeline
 from ingestion to analytics and visualization.
@@ -24,7 +24,7 @@ from ingestion to analytics and visualization.
 ---
 
 ### RAG-based Chatbot (Course Lab)
-[Rag_lab_eyoub_beraki_de24](https://github.com/AlejandroHiroshima/Rag_lab_eyoub_beraki_de24)
+[Rag_lab_eyoub_beraki_de24](https://github.com/ebt35/Rag_lab_eyoub_beraki_de24)
 
 Individual lab project implementing a Retrieval-Augmented Generation (RAG)
 chatbot using course material indexed in a vector database.
@@ -38,7 +38,7 @@ chatbot using course material indexed in a vector database.
 
 ---
 ### Data Modeling Lab
-[data_modeling_eyoub_beraki_de24](https://github.com/AlejandroHiroshima/data_modeling_eyoub_beraki_de24)
+[data_modeling_eyoub_beraki_de24](https://github.com/ebt35/data_modeling_eyoub_beraki_de24/tree/main/Yh_labb)
 
 Individual lab focusing on logical and physical data modeling.
 
